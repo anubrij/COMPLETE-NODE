@@ -1,0 +1,15 @@
+{
+  "name": "nodelearningproject",
+  "version": "1.0.0",
+  "description": "My first project which I complete to learn the node js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Anubrij Chandra",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.18.7"
+  }
+}
